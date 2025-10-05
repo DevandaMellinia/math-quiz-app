@@ -29,7 +29,6 @@ Developed by **Devanda Mellinia**
 ```
 math-quiz-app/
 │
-├── /screenshots/        # Screenshots of the app
 ├── /aia/                # MIT App Inventor project file (.aia)
 └── README.md            # This documentation file
 ```
